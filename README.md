@@ -1,1 +1,2 @@
 # KinectMask
+![image](result.png)
